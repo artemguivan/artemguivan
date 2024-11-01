@@ -10,7 +10,7 @@
 * 🥈 National Technological Olympiad 2024
 * 🥈 HSE Hackathon of the Summer School on Data Analytics
 * 🥉 All-Russian Hackathon Digital Breakthrough [Video Content Markup] 2024 
-* 5th place at the AI International Journey Cup 2023
+* 5rd place at the AI International Journey Cup 2023
 
 📫 **Media **
 * Our AI and Hackathon Community - `https://t.me/rascar_ai`
