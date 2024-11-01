@@ -5,11 +5,11 @@
 **Mail:** `artemnto1@gmail.com`
 
 🏆 **Competition **
-* 🥇 School of Programming and DA
+* 🥇 School of Programming and DA 2024
 * 🥇 ROSGEOLOGIYA HACKATHON 2023
-* 🥉 All-Russian Hackathon Digital Breakthrough [Video Content Markup] 2024 
-* 🥈 National Technological Olympiad 2023
+* 🥈 National Technological Olympiad 2024
 * 🥈 HSE Hackathon of the Summer School on Data Analytics
+* 🥉 All-Russian Hackathon Digital Breakthrough [Video Content Markup] 2024 
 * 5th place at the AI International Journey Cup 2023
 
 📫 **Media **
