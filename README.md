@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:dart: **You can find more information about me (https://t.me/ArtemGuivan).**
+:dart: **You can find more information about me [Telegram](https://t.me/ArtemGuivan) & [Chanel](https://t.me/i_am_artemid).**
   
 **Mail:** `artemnto1@gmail.com`
 
