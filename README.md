@@ -17,6 +17,3 @@
 * My Сhannel With Materials On AI - `https://t.me/i_am_artemid`
 * My chat With Material On AI - `https://t.me/moment_ml`
 
-🎱 **Work experience**
-* Deep Learning Engineer at Paternalist Jan 2024 - Apr 2024
-
