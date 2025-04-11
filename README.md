@@ -14,6 +14,6 @@
 
 📫 **Media **
 * Our AI and Hackathon Community - `https://t.me/rascar_ai`
-* My Сhannel With Materials On AI - `https://t.me/i_am_artemid`
-* My chat With Material On AI - `https://t.me/moment_ml`
+* My Сhannel With Materials About AI - `https://t.me/i_am_artemid`
+* My chat With Materials About AI - `https://t.me/moment_ml`
 
